@@ -1,1 +1,1 @@
-# ts
+# typescript-env
